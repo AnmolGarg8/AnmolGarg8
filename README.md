@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anmol Garg</h1>
 
 <p align="center">
-🚀 Co-founder @ Kenet Technologies & NoteNetra  
-💡 Building impactful tech solutions | Startup Enthusiast
+ Co-founder @ Kenet Technologies & NoteNetra  
+ Building impactful tech solutions | Startup Enthusiast
 </p>
 
 <p align="center">
@@ -11,16 +11,16 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-- 🚀 Co-founder of **Kenet Technologies & NoteNetra**
-- 💡 Passionate about **innovation & startups**
-- ⚡ Building solutions that solve **real-world problems**
-- 🌍 Vision: Create technology that impacts millions
+-  Co-founder of **Kenet Technologies & NoteNetra**
+-  Passionate about **innovation & startups**
+-  Building solutions that solve **real-world problems**
+-  Vision: Create technology that impacts millions
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 <p align="center">
 
@@ -30,7 +30,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
 
@@ -42,7 +42,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=AnmolGarg&theme=tokyonight"/>
@@ -50,7 +50,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/AnmolGarg/AnmolGarg/output/github-contribution-grid-snake.svg">
@@ -58,7 +58,7 @@
 
 ---
 
-## 📜 Daily Quote
+##  Daily Quote
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
@@ -66,17 +66,17 @@
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-### 🔹 NoteNetra  
+###  NoteNetra  
 AI-powered currency detection system  
 
-### 🔹 Kenet Technologies  
+###  Kenet Technologies  
 Building innovative tech products & solutions  
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="center">
 
@@ -96,7 +96,7 @@ Building innovative tech products & solutions
 
 ---
 
-## 👀 Profile Views
+##  Profile Views
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=AnmolGarg&style=for-the-badge">
