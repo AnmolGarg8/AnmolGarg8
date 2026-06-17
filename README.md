@@ -1,178 +1,131 @@
+<h1 align="center">Hi, I'm Anmol Garg</h1>
+
+<h3 align="center">
+Google Student Ambassador | AI & ML Enthusiast | Full Stack Developer
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Google+Student+Ambassador;AI+%26+Machine+Learning+Developer;Full+Stack+Developer;Open+Source+Contributor;Building+Tech+for+Impact&center=true&width=700&height=50">
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=AnmolGarg8&label=Profile+Views&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/AnmolGarg8?style=for-the-badge"/>
+</p>
+
+---
+
+## About Me
+
+- Google Student Ambassador
+- Passionate about Artificial Intelligence, Machine Learning, and Generative AI
+- Full Stack Developer focused on building scalable applications
+- Active Open Source Contributor
+- Interested in Cloud Computing, System Design, and Emerging Technologies
+- Always learning and building impactful solutions
+
+---
+
+## Tech Stack
+
 <div align="center">
-Hi, I'm Anmol Garg 👋
 
-AI & Data Science Engineer • Builder • Samsung Top 10 • National Finalist
+### Languages
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp" />
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+ML+Engineer;Full+Stack+Developer;LLM+%26+RAG+Systems+Builder;Open+Source+Contributor;Google+Student+Ambassador+2026&center=true&width=500&height=45&color=6366f1&vCenter=true&pause=1000">
-Show Image
-Show Image
-Show Image
-Show Image
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,flutter" />
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql" />
+
+### AI / ML
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,figma" />
 
 </div>
 
-🧑‍💻 About Me
+---
 
-pythonanmol = {
-    "role"        : "AI & Data Science Engineer",
-    "education"   : "B.Tech AI & Data Science @ VIPS Delhi (2024–2028) | CGPA: 8.67",
-    "currently"   : "AI Engineer Intern @ AD&AR Technologies — Voice AI & LLM Pipelines",
-    "ambassador"  : "Google Gemini Student Ambassador 2026",
-    "achievement" : "Samsung Solve for Tomorrow — Top 10 National (20,000+ teams)",
-    "stack"       : ["Python", "FastAPI", "React", "LangChain", "RAG", "PyTorch"],
-    "building"    : "Production AI systems that solve real-world problems",
-    "location"    : "Delhi, India 🇮🇳"
-}
+## Current Focus
 
+```yaml
+Working On:
+  - AI and Generative AI Projects
+  - Full Stack Applications
+  - Open Source Contributions
 
-🏆 Achievements
+Learning:
+  - Large Language Models
+  - Cloud Technologies
+  - Advanced System Design
 
-<div align="center">
-🥇 Award📍 DetailsSamsung Solve for Tomorrow 2025Top 10 National Semifinalist · 20,000+ teamsIndia Innovates 2026National FinalistSupernova Hackathon, GL Bajaj 2025🥇 1st PlaceGoogle Student Ambassador 2026Representing Google at VIPS Delhi
+Interested In:
+  - AI Research
+  - Developer Communities
+  - Building Real-World Products
+```
 
-</div>
+---
 
-🚀 Featured Projects
+## GitHub Statistics
 
-<div align="center">
-🔐 AIRAVAT XDR — Autonomous AI Cyber Defense Platform
+<p align="center">
 
-Show Image
-Show Image
-Show Image
-Show Image
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnmolGarg8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolGarg8&layout=compact&langs_count=8&theme=tokyonight"/>
 
-Real-time Isolation Forest anomaly detection + NLP phishing classifier → unified dynamic risk score → autonomous response engine (account lockdown, device isolation, incident reports). Sub-2s latency, <5% false positive rate. India Innovates 2026 National Finalist.
+</p>
 
+---
 
+## GitHub Streak
 
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=AnmolGarg8&theme=tokyonight"/>
+</p>
 
-📒 NoteNetra — Offline IoT Cash Tracking
+---
 
-Show Image
-Show Image
-Show Image
+## GitHub Trophies
 
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AnmolGarg8&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
 
-ESP32 IoT system digitising 1,000+ daily cash transactions from shopkeeper ledgers into real-time cloud dashboard. Generates formal credit histories for unbanked MSMEs — validated with real shopkeepers. Samsung Solve for Tomorrow 2025 — Top 10 National (20,000+ teams).
+---
 
+## Contribution Activity
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnmolGarg8&theme=tokyo-night"/>
+</p>
 
+---
 
-🤖 SAMARTH-AI — NLP MSME Onboarding Platform
+## Connect
 
-Show Image
-Show Image
-Show Image
+<p align="center">
 
+<a href="https://github.com/AnmolGarg8">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
 
-NLP classifier auto-mapping plain-text product descriptions to 500+ government taxonomy categories. 80% accuracy, 70% reduction in manual effort. Full-stack FastAPI + React.js deployment.
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 
+</p>
 
+---
 
-🫁 PulmoCare — Respiratory Deterioration Monitor
-
-Show Image
-Show Image
-
-
-Dual-sensor respiratory monitor targeting 300M+ COPD patients — acoustic sputum + transcutaneous CO₂ tracking. Real-time Canvas 2D dashboard, zero external dependencies, 3-tier emergency alert cascade.
-
-
-
-</div>
-
-🛠️ Tech Stack
-
-<div align="center">
-Languages
-
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-
-AI / ML
-
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-
-LLM / GenAI
-
-Show Image
-Show Image
-Show Image
-
-Web & APIs
-
-Show Image
-Show Image
-Show Image
-Show Image
-
-Tools & Cloud
-
-Show Image
-Show Image
-Show Image
-Show Image
-
-Hardware & IoT
-
-Show Image
-Show Image
-
-</div>
-
-📊 GitHub Stats
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnmolGarg8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolGarg8&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</div>
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=AnmolGarg8&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-🐍 Contribution Activity
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/AnmolGarg8/AnmolGarg8/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
-
-💼 Currently
-
-🏢  AI Engineer Intern @ AD&AR Technologies
-    └── Voice AI Agent pipelines, RAG systems, LLM integrations
-
-🎓  B.Tech AI & Data Science @ VIPS Delhi
-    └── 2nd Year | CGPA: 8.67 | Graduating 2028
-
-🌐  Google Gemini Student Ambassador 2026
-    └── Representing Google's developer programs at VIPS
-
-🔨  Building: YojanaGPT — RAG system over 700+ Indian govt schemes
-
-
-📬 Let's Connect
-
-<div align="center">
-Open to: AI/ML internships · Remote opportunities · YC-backed startups · Research collaborations
-
-Show Image
-Show Image
-Show Image
-
-Show Image
-
-</div>
-
-<div align="center">
-<i>"Don't just learn — build something real."</i>
-</div>
+<p align="center">
+Building technology that creates impact through AI, software, and community.
+</p>
