@@ -1,107 +1,178 @@
-<h1 align="center">Hi 👋, I'm Anmol Garg</h1>
+<div align="center">
+Hi, I'm Anmol Garg 👋
 
-<p align="center">
- Co-founder @ Kenet Technologies & NoteNetra  
- Building impactful tech solutions | Startup Enthusiast
-</p>
+AI & Data Science Engineer • Builder • Samsung Top 10 • National Finalist
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Tech+Entrepreneur;Startup+Builder;Innovator;Future+Founder;Problem+Solver&center=true&width=500&height=45">
-</p>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+ML+Engineer;Full+Stack+Developer;LLM+%26+RAG+Systems+Builder;Open+Source+Contributor;Google+Student+Ambassador+2026&center=true&width=500&height=45&color=6366f1&vCenter=true&pause=1000">
+Show Image
+Show Image
+Show Image
+Show Image
 
----
+</div>
 
-##  About Me
+🧑‍💻 About Me
 
--  Co-founder of **Kenet Technologies & NoteNetra**
--  Passionate about **innovation & startups**
--  Building solutions that solve **real-world problems**
--  Vision: Create technology that impacts millions
+pythonanmol = {
+    "role"        : "AI & Data Science Engineer",
+    "education"   : "B.Tech AI & Data Science @ VIPS Delhi (2024–2028) | CGPA: 8.67",
+    "currently"   : "AI Engineer Intern @ AD&AR Technologies — Voice AI & LLM Pipelines",
+    "ambassador"  : "Google Gemini Student Ambassador 2026",
+    "achievement" : "Samsung Solve for Tomorrow — Top 10 National (20,000+ teams)",
+    "stack"       : ["Python", "FastAPI", "React", "LangChain", "RAG", "PyTorch"],
+    "building"    : "Production AI systems that solve real-world problems",
+    "location"    : "Delhi, India 🇮🇳"
+}
 
----
 
-##  Tech Stack
+🏆 Achievements
 
-<p align="center">
+<div align="center">
+🥇 Award📍 DetailsSamsung Solve for Tomorrow 2025Top 10 National Semifinalist · 20,000+ teamsIndia Innovates 2026National FinalistSupernova Hackathon, GL Bajaj 2025🥇 1st PlaceGoogle Student Ambassador 2026Representing Google at VIPS Delhi
 
-<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,mongodb,html,css,git,linux,c,cpp"/>
+</div>
 
-</p>
+🚀 Featured Projects
 
----
+<div align="center">
+🔐 AIRAVAT XDR — Autonomous AI Cyber Defense Platform
 
-##  GitHub Stats
+Show Image
+Show Image
+Show Image
+Show Image
 
-<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnmolGarg&show_icons=true&theme=tokyonight"/>
+Real-time Isolation Forest anomaly detection + NLP phishing classifier → unified dynamic risk score → autonomous response engine (account lockdown, device isolation, incident reports). Sub-2s latency, <5% false positive rate. India Innovates 2026 National Finalist.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolGarg&layout=compact&theme=tokyonight"/>
 
-</p>
 
----
 
-##  GitHub Streak
+📒 NoteNetra — Offline IoT Cash Tracking
 
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=AnmolGarg&theme=tokyonight"/>
-</p>
+Show Image
+Show Image
+Show Image
 
----
 
-##  Contribution Snake
+ESP32 IoT system digitising 1,000+ daily cash transactions from shopkeeper ledgers into real-time cloud dashboard. Generates formal credit histories for unbanked MSMEs — validated with real shopkeepers. Samsung Solve for Tomorrow 2025 — Top 10 National (20,000+ teams).
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/AnmolGarg/AnmolGarg/output/github-contribution-grid-snake.svg">
-</p>
 
----
 
-##  Daily Quote
 
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
-</p>
+🤖 SAMARTH-AI — NLP MSME Onboarding Platform
 
----
+Show Image
+Show Image
+Show Image
 
-##  Projects
 
-###  NoteNetra  
-AI-powered currency detection system  
+NLP classifier auto-mapping plain-text product descriptions to 500+ government taxonomy categories. 80% accuracy, 70% reduction in manual effort. Full-stack FastAPI + React.js deployment.
 
-###  Kenet Technologies  
-Building innovative tech products & solutions  
 
----
 
-##  Connect With Me
 
-<p align="center">
+🫁 PulmoCare — Respiratory Deterioration Monitor
 
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+Show Image
+Show Image
 
-<a href="https://twitter.com">
-<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter"/>
-</a>
 
-<a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
+Dual-sensor respiratory monitor targeting 300M+ COPD patients — acoustic sputum + transcutaneous CO₂ tracking. Real-time Canvas 2D dashboard, zero external dependencies, 3-tier emergency alert cascade.
 
-</p>
 
----
 
-##  Profile Views
+</div>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=AnmolGarg&style=for-the-badge">
-</p>
+🛠️ Tech Stack
 
----
+<div align="center">
+Languages
 
-## ⚡ Fun Fact
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+
+AI / ML
+
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+
+LLM / GenAI
+
+Show Image
+Show Image
+Show Image
+
+Web & APIs
+
+Show Image
+Show Image
+Show Image
+Show Image
+
+Tools & Cloud
+
+Show Image
+Show Image
+Show Image
+Show Image
+
+Hardware & IoT
+
+Show Image
+Show Image
+
+</div>
+
+📊 GitHub Stats
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnmolGarg8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolGarg8&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</div>
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=AnmolGarg8&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+🐍 Contribution Activity
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/AnmolGarg8/AnmolGarg8/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</div>
+
+💼 Currently
+
+🏢  AI Engineer Intern @ AD&AR Technologies
+    └── Voice AI Agent pipelines, RAG systems, LLM integrations
+
+🎓  B.Tech AI & Data Science @ VIPS Delhi
+    └── 2nd Year | CGPA: 8.67 | Graduating 2028
+
+🌐  Google Gemini Student Ambassador 2026
+    └── Representing Google's developer programs at VIPS
+
+🔨  Building: YojanaGPT — RAG system over 700+ Indian govt schemes
+
+
+📬 Let's Connect
+
+<div align="center">
+Open to: AI/ML internships · Remote opportunities · YC-backed startups · Research collaborations
+
+Show Image
+Show Image
+Show Image
+
+Show Image
+
+</div>
+
+<div align="center">
+<i>"Don't just learn — build something real."</i>
+</div>
