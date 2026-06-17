@@ -14,28 +14,12 @@
 
 ---
 
-## 🚀 Highlights
-
-<p align="center">
-
-🎓 Google Student Ambassador &nbsp; • &nbsp;
-🤖 AI & Machine Learning &nbsp; • &nbsp;
-💻 Full Stack Development
-
-<br><br>
-
-☁️ Cloud Computing &nbsp; • &nbsp;
-🌐 Open Source Contributor &nbsp; • &nbsp;
-🚀 Building Real-World Projects
-
-</p>
-
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nextjs,nodejs,mongodb,mysql,firebase,docker,git,github,linux,flutter,figma" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nextjs,nodejs,mongodb,mysql,firebase,docker,git,linux,flutter,figma" />
 </p>
 
 ---
