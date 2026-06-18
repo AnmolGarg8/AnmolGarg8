@@ -1,84 +1,187 @@
-<h1 align="center">Hi 👋, I'm Anmol Garg</h1>
+<div align="center">
 
-<h3 align="center">Google Student Ambassador • AI Enthusiast • Full Stack Developer</h3>
+<h1>Hi, I'm Anmol Garg 👋</h1>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Google+Student+Ambassador;AI+%26+ML+Developer;Full+Stack+Developer;Open+Source+Contributor;Building+Tech+for+Impact&center=true&width=600&height=45">
-</p>
+<p><strong>AI & ML Engineer &nbsp;•&nbsp; Samsung Top 10 / 20,000+ Teams &nbsp;•&nbsp; India Innovates 2026 National Finalist</strong></p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=AnmolGarg8&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/AnmolGarg8?style=for-the-badge" />
-<img src="https://img.shields.io/github/stars/AnmolGarg8?style=for-the-badge" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=AI+%26+ML+Engineer;LLM+%26+RAG+Systems+Builder;Full+Stack+AI+Developer;Google+Student+Ambassador+2026;Open+to+AI%2FML+Internships)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmol-garg2005)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmolgarg1605@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/AnmolGarg8?style=for-the-badge&color=6366f1)](https://github.com/AnmolGarg8)
+[![Live Demo](https://img.shields.io/badge/AIRAVAT_XDR-Live-success?style=for-the-badge)](https://www.airavatxdr.in/)
+
+</div>
 
 ---
+
+## 🧑‍💻 About Me
+
+```python
+anmol = {
+    "role"        : "AI & Data Science Engineer",
+    "education"   : "B.Tech AI & DS @ VIPS Delhi (2024–2028) | CGPA: 8.67",
+    "interning"   : "AI Engineer @ AD&AR Technologies — Voice AI & LLM Pipelines",
+    "ambassador"  : "Google Gemini Student Ambassador 2026",
+    "top_award"   : "Samsung Solve for Tomorrow — Top 10 National (20,000+ teams)",
+    "stack"       : ["Python", "FastAPI", "React", "LangChain", "RAG", "PyTorch"],
+    "location"    : "Delhi, India 🇮🇳",
+    "open_to"     : "AI/ML Internships · Remote Roles · YC-backed Startups"
+}
+```
+
+---
+
+## 🏆 Achievements
+
+| Award | Details |
+|---|---|
+| 🥇 **Samsung Solve for Tomorrow 2025** | Top 10 National Semifinalist · 20,000+ teams |
+| 🏅 **India Innovates 2026** | National Finalist |
+| 🥇 **Supernova Hackathon, GL Bajaj 2025** | 1st Place |
+| 🌐 **Google Student Ambassador 2026** | Representing Google's developer programs at VIPS |
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 [AIRAVAT XDR](https://github.com/Chaitanyasethi1/XDR_hack) — Autonomous AI Cyber Defense Platform
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+[![Demo](https://img.shields.io/badge/Live_Demo-airavatxdr.in-6366f1?style=flat-square)](https://www.airavatxdr.in/)
+
+> Isolation Forest anomaly detection + NLP phishing classifier → unified risk score → autonomous response (account lockdown, device isolation, incident reports). Sub-2s latency · <5% false positive rate.
+> 
+> **🏅 India Innovates 2026 National Finalist**
+
+---
+
+### 📒 [NoteNetra](https://github.com/AnmolGarg8/Note) — Offline IoT Cash Tracking
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+> ESP32 IoT system digitising 1,000+ daily cash transactions from shopkeeper ledgers. Generates formal credit histories for unbanked MSMEs — validated with real shopkeepers.
+>
+> **🥇 Samsung Solve for Tomorrow 2025 — Top 10 National (20,000+ teams)**
+
+---
+
+### 🤖 [SAMARTH-AI](https://github.com/AnmolGarg8/AiKOSH) — NLP MSME Onboarding Platform
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+> NLP classifier auto-mapping plain-text product descriptions to 500+ government taxonomy categories. **80% accuracy · 70% effort reduction.** Full-stack FastAPI + React.js.
+
+---
+
+### 🫁 [PulmoCare](https://github.com/AnmolGarg8/Pulmocare) — Respiratory Deterioration Monitor
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Canvas API](https://img.shields.io/badge/Canvas_API-FF6B35?style=flat-square)
+
+> Dual-sensor respiratory monitor targeting 300M+ COPD patients — acoustic sputum + CO₂ tracking. Real-time Canvas 2D dashboard, zero external dependencies, 3-tier emergency alert cascade.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nextjs,nodejs,mongodb,mysql,firebase,docker,git,linux,flutter,figma" />
-</p>
+**Core Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**LLM / GenAI**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge)
+
+**Web & APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Hardware & IoT**
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C/C++-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AnmolGarg8&show_icons=true&theme=tokyonight&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolGarg8&layout=compact&theme=tokyonight"/>
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnmolGarg8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolGarg8&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&hide=jupyter+notebook"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AnmolGarg8&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-## 🔥 Streak Stats
+## 💼 Currently
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=AnmolGarg8&theme=tokyonight"/>
-</p>
+```
+🏢  AI Engineer Intern @ AD&AR Technologies
+    └── Voice AI Agent pipelines · RAG systems · LLM integrations
 
----
+🎓  B.Tech AI & Data Science @ VIPS Delhi  
+    └── 2nd Year | CGPA: 8.67 | Graduating 2028
 
-## 📈 Contribution Graph
+🌐  Google Gemini Student Ambassador 2026
+    └── Representing Google's developer programs at VIPS
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnmolGarg8&theme=tokyo-night"/>
-</p>
-
----
-
-## 💭 Quote of the Day
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
-</p>
+📍  Delhi, India
+```
 
 ---
 
-## 🌐 Connect With Me
+## 📬 Let's Connect
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/AnmolGarg8" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
+**Open to:** AI/ML Internships · Remote Opportunities · YC-backed Startups · Research Collaborations
 
-<a href="https://www.linkedin.com/in/anmol-garg2005/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmol-garg2005)
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmolgarg1605@gmail.com)
+[![AIRAVAT Live](https://img.shields.io/badge/AIRAVAT_XDR_Live_Demo-6366f1?style=for-the-badge)](https://www.airavatxdr.in/)
 
-<a href="mailto:anmolgarg1605@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+![Profile Views](https://komarev.com/ghpvc/?username=AnmolGarg8&style=for-the-badge&color=6366f1)
 
-</p>
+</div>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/anmol-garg2005/">LinkedIn</a> •
-<a href="mailto:anmolgarg1605@gmail.com">Email</a>
-</p>
-<p align="center">
-✨ Building AI-powered solutions and contributing to the developer community ✨
-</p>
+---
+
+<div align="center">
+<i>"Don't just learn — build something real."</i>
+</div>
