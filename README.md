@@ -78,7 +78,7 @@ anmol = {
 
 ---
 
-### 🫁 [PulmoCare](https://github.com/AnmolGarg8/Pulmocare) — Respiratory Deterioration Monitor
+### 🫁 [PulmoWarn](https://github.com/AnmolGarg8/Pulmocare) — Respiratory Deterioration Monitor
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Canvas API](https://img.shields.io/badge/Canvas_API-FF6B35?style=flat-square)
