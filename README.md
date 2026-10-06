@@ -4,11 +4,20 @@
 
 AI/ML Engineer &nbsp;·&nbsp; Systems Builder &nbsp;·&nbsp; Full-Stack
 
-<a href="https://www.linkedin.com/in/anmol-garg2005"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:anmolgarg1605@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://leetcode.com/u/anmolgarg8"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=111111" alt="LeetCode"/></a>
-<a href="https://www.airavatxdr.in/"><img src="https://img.shields.io/badge/AIRAVAT_XDR-Live-111827?style=flat-square" alt="AIRAVAT XDR"/></a>
-<img src="https://api.visitorbadge.io/api/visitors?path=AnmolGarg8&label=Profile%20Views&labelColor=%23111827&countColor=%236366f1&style=flat-square" alt="Profile views"/>
+<a href="https://www.linkedin.com/in/anmol-garg2005">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:anmolgarg1605@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/anmolgarg8">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=111111"/>
+</a>
+<a href="https://www.airavatxdr.in/">
+<img src="https://img.shields.io/badge/AIRAVAT_XDR-Live-111827?style=flat-square"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=AnmolGarg8&style=flat-square&color=6366f1" alt="Profile views"/>
 
 </div>
 
@@ -83,7 +92,11 @@ Working on LLM/RAG application architecture, agent reliability, and the systems 
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/anmol-garg2005"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
-<a href="mailto:anmolgarg1605@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/></a>
+<a href="https://www.linkedin.com/in/anmol-garg2005">
+<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:anmolgarg1605@gmail.com">
+<img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
