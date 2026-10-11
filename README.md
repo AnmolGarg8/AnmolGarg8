@@ -100,4 +100,3 @@ Working on LLM/RAG application architecture, agent reliability, and the systems 
 </a>
 
 </div>
-
