@@ -49,7 +49,7 @@ I work across the stack that sits between a model and a shipped product: trainin
 National Finalist, India Innovates 2026. Built with a 4-member team. Combines Isolation Forest anomaly detection with an NLP phishing classifier into a single risk-scoring engine, feeding an automated response system (account lockdown, device isolation). Sub-2s response latency, under 5% false-positive rate. Backend in FastAPI, dashboard in React.
 `Python` `FastAPI` `React` `Scikit-learn` `NLP` — [Live demo](https://www.airavatxdr.in/)
 
-### ZeroWaste Kitchen — Persistent Food Memory for Alexa+
+### [ZeroWaste Kitchen](https://github.com/AnmolGarg8/zerowaste-kitchen) — Persistent Food Memory for Alexa+
 Built for the Amazon Developer Hackathon 2026. An open-source MCP server that gives Alexa+ persistent memory of household food (expiry tracking, shopping gaps, waste reports) through five stateless tools over Streamable HTTP, following MCP spec 2025-11-25. Designed around Alexa+'s 500 ms response limit by keeping LLM calls out of the request path. Verified with 15 automated tests, including an end-to-end test over real HTTP, plus a browser simulator that shows live JSON-RPC calls and latency.
 `Python` `MCP (FastMCP)` `SQLite` `pytest`
 
