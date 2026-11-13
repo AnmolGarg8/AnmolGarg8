@@ -45,7 +45,7 @@ I work across the stack that sits between a model and a shipped product: trainin
 
 ## Projects
 
-### [AIRAVAT XDR](https://github.com/Chaitanyasethi1/XDR_hack) — Autonomous AI Cyber Defense Platform
+### [AIRAVAT XDR](https://github.com/AnmolGarg8/AirawatXdr) — Autonomous AI Cyber Defense Platform
 National Finalist, India Innovates 2026. Built with a 4-member team. Combines Isolation Forest anomaly detection with an NLP phishing classifier into a single risk-scoring engine, feeding an automated response system (account lockdown, device isolation). Sub-2s response latency, under 5% false-positive rate. Backend in FastAPI, dashboard in React.
 `Python` `FastAPI` `React` `Scikit-learn` `NLP` — [Live demo](https://www.airavatxdr.in/)
 
